@@ -1,0 +1,59 @@
+body{
+    background:url('pexels-photo-1363876.jpeg');
+    font-family: 'Poppins', sans-serif;
+   
+ }
+ h1{
+    text-shadow: 2px 2px olivedrab;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+ }
+ .container{
+    width: 380px;
+    padding: 40px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 33%;
+    margin-top: 5px;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 10px;
+   
+ }
+ input{
+    width: 270px;
+    padding: 8px;
+    border: 2px  solid rgb(13, 17, 17);
+    outline: none;
+    font-size: 19px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+
+
+ }
+ button{
+    width: 60px;
+    height: 41px;
+    background-color: rgb(4, 29, 29);
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-left: 10px;
+    outline: none;
+    font-size: 19px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+ }
+ .text ul{
+    position: relative;
+    background-color: rgb(5, 31, 31);
+    color: white;
+    font-size: 19px;
+    padding: 7px;
+    text-align: left;
+ }
+ .text ul i{
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+ }
+        
